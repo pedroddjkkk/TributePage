@@ -1,0 +1,43 @@
+
+main{
+    font-family: 'Fredoka';
+    text-align: center;
+}
+#header{
+    background-color: #CFCFCF;
+    color: #000000;
+    border-radius: 5px;
+    margin: 20px;
+}
+#img-div{
+    background-color: white !important;
+    padding: 30px;
+    border-radius: 4px;
+    margin: 16px;
+}
+#image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+#img-caption{
+    padding: 10px;
+    font-size: large;
+}
+#title{
+    padding-top: 10px;
+}
+ul{
+    text-align: left;
+    margin: 0 auto 50px auto;
+    max-width: 950px;
+}
+li{
+    padding: 16px;
+}
+h3{
+    padding-bottom: 32px;
+    margin-top: 0px;
+}
